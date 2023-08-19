@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @hiteshsharma936
+- 👋 Hi, I’m hiteshsharma
 - 👀 I’m interested in making Power BI Dashboards and solving Business Problems.
 - 💞️ I’m looking to collaborate on Data Analyst Work.
-- 📫 How to reach me- 9650910818
+- 📫 How to reach me -9650910818
+                     -lordofgoodness0@gmail.com
+                     -
+                     
 -  
 
 <!---
