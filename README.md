@@ -3,11 +3,11 @@
 - 💞️ I’m looking to collaborate the Corporate world with my skills.
 - I have a good knowledge of Excel,Power BI,Sql and python.
 - I like to learn and explore more things.
-- 📫 How to reach me -9650910818
-                     -lordofgoodness0@gmail.com
-                     -
+- 📫 How to reach me -  lordofgoodness0@gmail.com
+-  My Linkedin profile - www.linkedin.com/in/hitesh-sharma-558204246  
+                    
                      
--  
+  
 
 <!---
 hiteshsharma936/hiteshsharma936 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
