@@ -4,8 +4,7 @@
 - I have a good knowledge of Excel,Power BI,Sql and python.
 - I like to learn and explore more things.
 - 📫 How to reach me -  katariasharmahitesh@gmail.com
--  My Linkedin profile - www.linkedin.com/in/hiteshsharma0936 
-                    
+-  My Linkedin profile -   https://www.linkedin.com/in/hitesh0936
                      
   
 
